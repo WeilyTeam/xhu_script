@@ -30,7 +30,7 @@ useful script
 
 3.如果你觉得此脚本对你有用 可以请我喝一杯奶茶
 
-![wx](https://cdn.jsdelivr.net/gh/Sherlockouo/PicBase/img/learn/wx.jpg)
+<!-- ![wx](https://cdn.jsdelivr.net/gh/Sherlockouo/PicBase/img/learn/wx.jpg) -->
 
 ## 2. 课程评价脚本
 * 脚本放在<code>/scripts/XhuUniversity/Related</code>文件夹下面
